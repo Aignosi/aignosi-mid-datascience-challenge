@@ -1,13 +1,13 @@
-# 1. Bem-vindo ao repositório do Desafio de Dados da ihm stefanini
+# 1. Bem-vindo ao repositório do Desafio de Dados da aignosi
 
-Esse repositório contém todas as informações e diretrizes necessárias para que você possa realizar o nosso desafio, como parte integrante do nosso processo de avaliação dos potenciais candidatos as vagas de cientista de dados **pleno**.
+Esse repositório contém todas as informações e diretrizes necessárias para que você possa realizar o nosso desafio, como parte integrante do nosso processo de avaliação dos potenciais candidatos as vagas de Engenheiros de AI **pleno**.
 
 Sugerimos que você **leia com bastante atenção** a todos as etapas, critérios e requisitos a serem cumpridos no desafio.
 
 ## 1.1 Objetivo do desafio
 
 Avaliar de forma **qualitativa** quais são os pontos fortes e os pontos de gaps do candidato à vaga.
-O desafio não tem o intuito de ser de carácter eliminatório, mas sim uma forma mais pragmática de prover para o RH e os líderes da ihm stefanini informações sobre a experiência que você já tem na área. 
+O desafio não tem o intuito de ser de carácter eliminatório, mas sim uma forma mais pragmática de prover para o RH e os líderes da aignosi informações sobre a experiência que você já tem na área. 
 
 ## 1.2 Etapas do desafio
 
@@ -18,9 +18,9 @@ O desafio se divide nas seguintes etapas:
 1. Desenvolvimento do desafio (analisar, explorar e modelar os dados)
 1. Criar uma apresentação em formato PowerPoint
 1. Submeter o(s) código(s) e o arquivo da apresentação ao mesmo repositório*(maiores detalhes vide seção 1.6)
-1. Informar pelo email leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br que você concluiu o desafio
+1. Informar pelo email eduardo@aignosi.com que você concluiu o desafio
 1. Iremos combinar uma data (via email) da sua apresentação (a ser realizada remotamente via Microsoft Teams)
-1. Realizar a apresentação final para os stackholders (banca) da ihm stefanini
+1. Realizar a apresentação final para os stackholders (banca) da aignosi
  
 ## 1.3 Critérios de avaliação mais relevantes
 
@@ -56,16 +56,16 @@ Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 
 ## 1.6 Entregáveis, Prazos e Submissão final
 
-1. **Submeter via github** a versão final do(s) seu(s) código(s) em formato *.py e/ou *.ipynb via github;
+1. **Submeter via github** a versão final do(s) seu(s) código(s) em formato *.py via github;
 1. Utilizar o git também para enviar o arquivo da sua apresentação;
 1. Submeter em uma nova *branch* que segue o seguinte padrão: junior-datascientist-challenge-xxxxxxxx (onde x representa o seu nome e sobrenome juntos, sem acento e com caracteres minúsculos). Exemplo: junior-datascientist-challenge-eduardomagalhaes
 1. Prazo inicial de **até 03 semanas**, a contar a partir da data em que você recebeu o email de convocação para o desafio;
-1. A data final da apresentação será combinada via email com o time ihm stefanini.
+1. A data final da apresentação será combinada via email com o time da aignosi.
 
 ## 1.7 FAQ
 
 1. Pode usar Google, Kaggle, Stackoverflow à vontade, pois é assim que funciona na vida real!
-2. Será permitido tirar dúvidas com as pessoas da ihm stefanini, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br
+2. Será permitido tirar dúvidas com as pessoas da aignosi, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email para eduardo@aignosi.com
 
 ##--------------------------------------------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ Busque:
 
 ## 2.4 Agradecimentos e dúvidas
 
-Agradecemos o seu interesse de participar no desafio e qualquer dúvida, entre em contato pelo email com leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br
+Agradecemos o seu interesse de participar no desafio e qualquer dúvida, entre em contato pelo email com eduardo@aignosi.com
